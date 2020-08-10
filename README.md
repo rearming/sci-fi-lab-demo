@@ -23,4 +23,4 @@ Uses features of Unity HDRP (High Definition Rendering Pipeline):
 
 You can [download](https://drive.google.com/open?id=1Klwun6C5UwLCwwXbNbKczA3cb0wkTkpf) windows build and try it by yourself!
 
-Also because of Github Large file storage 1gb limit you can download whole project from [Google Drive](https://drive.google.com/file/d/1_dkwj7LGH-fwm5TYlWvWmZBfae8xu4Ar/view?usp=sharing).
+Also because of Github Large file storage 1gb limit you can download whole project from [Google Drive](https://drive.google.com/file/d/1_dkwj7LGH-fwm5TYlWvWmZBfae8xu4Ar/view?usp=sharing), or from my collaborator's [github](https://github.com/GodFlight/Msu_Demo).
