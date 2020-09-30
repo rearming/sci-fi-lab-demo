@@ -21,6 +21,6 @@ Uses features of Unity HDRP (High Definition Rendering Pipeline):
 **Hangar with Tesla coils - Electic Lightning VFX**
 ![](https://sun9-54.userapi.com/c855720/v855720415/21bb0b/j6_BIP2DKw4.jpg)
 
-You can [download](https://drive.google.com/open?id=1Klwun6C5UwLCwwXbNbKczA3cb0wkTkpf) windows build and try it by yourself!
+You can [download](https://drive.google.com/open?id=1Klwun6C5UwLCwwXbNbKczA3cb0wkTkpf) windows build and try it yourself!
 
-Also because of Github Large file storage 1gb limit you can download whole project from [Google Drive](https://drive.google.com/file/d/1_dkwj7LGH-fwm5TYlWvWmZBfae8xu4Ar/view?usp=sharing), or from my collaborator's [github](https://github.com/GodFlight/Msu_Demo).
+Also because of Github LFS 1 GB limit you can download the project from [Google Drive](https://drive.google.com/file/d/1_dkwj7LGH-fwm5TYlWvWmZBfae8xu4Ar/view?usp=sharing), or from my collaborator's [github](https://github.com/GodFlight/Msu_Demo).
